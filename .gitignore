@@ -1,0 +1,6 @@
+.vscode
+.idea
+build
+*.so
+*.egg-info
+det3d/core/iou3d/dist
